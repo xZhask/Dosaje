@@ -65,4 +65,18 @@
     /*height: 5em;*/
     height: 80px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    justify-content: end;
+    padding: 3em;
+}
+.cont_info_user{
+    align-items: center;
+    gap: 1em;
+}
+.cont_info_user p{
+    text-align: end;
+    font-size: 1em;
+    color: rgb(66 179 245);;
+}
+.cont_info_user img{
+    height: 45px;
 }
